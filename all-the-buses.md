@@ -62,9 +62,9 @@
 
 | ?  | #  | Name                 | Beer                                | Notes                                                                            |
 |----|----|----------------------|-------------------------------------|----------------------------------------------------------------------------------|
-| ✅ | 72 | Salmo                | Erie Creek, Backroads               | Erie Creek has bullshit hours of operation. Never went to Salmo, just rode one stop in Nelson. |
-| ✅ | 74 | Nakusp               | Tonik Distillery, Backroads         |                                                                                  |
-| ✅ | 76 | Kaslo                | Angry Hen, Backroads                |                                                                                  |
+| ✅ | 72 | Salmo                | Erie Creek, Backroads, Torchlight               | Erie Creek has bullshit hours of operation. Never went to Salmo, just rode one stop in Nelson. |
+| ✅ | 74 | Nakusp               | Tonik Distillery, Backroads, Torchlight         |                                                                                  |
+| ✅ | 76 | Kaslo                | Angry Hen, Backroads, Torchlight                |                                                                                  |
 
 ## Connectors
 
